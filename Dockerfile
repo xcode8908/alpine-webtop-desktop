@@ -1,4 +1,4 @@
-FROM lscr.io/linuxserver/webtop:alpine-xfce
+FROM linuxserver/webtop:latest
 
 # Environment defaults
 ENV TZ=Asia/Kolkata \
